@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notatnik</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="title_activity_note">Zapis notatki do pamięci</string>
+    <string name="activity_title_home">Notatki</string>
+    <string name="msg_no_notes">Nie znaleziono notatek</string>
+    <string name="lbl_new_note_title">Nowa notatka</string>
+    <string name="lbl_edit_note_title">Edytuj notatkę</string>
+    <string name="hint_enter_note">Wprowadź notatkę!</string>
+    <string name="btn_take_picture">Zrób zdjęcie</string>
+    <string name="title_activity_camera">Aparat</string>
+
+</resources>
